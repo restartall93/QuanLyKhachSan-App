@@ -1,0 +1,27 @@
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\hotel-management-app.exe.config
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\hotel-management-app.exe
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\hotel-management-app.pdb
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel-management-app.csproj.AssemblyReference.cache
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel-management-app.csproj.SuggestedBindingRedirects.cache
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.AuthenticateForm.resources
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel_management_app.Properties.Resources.resources
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel-management-app.csproj.GenerateResource.cache
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel-management-app.csproj.CoreCompileInputs.cache
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel-management-app.exe
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel-management-app.pdb
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\FontAwesome.Sharp.dll
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel-management-app.csproj.CopyComplete
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.ForgotPasswordForm.resources
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.LoginForm.resources
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel_management_app.Forms.Authenticate.RegisterForm.resources
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\obj\Debug\hotel_management_app.Controls.BaseTextBox.resources
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\Newtonsoft.Json.dll
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\Newtonsoft.Json.pdb
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\Newtonsoft.Json.xml
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Project\hotel-management\hotel-management-app\hotel-management-app\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\clone code github\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.csproj.AssemblyReference.cache
+D:\clone code github\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.csproj.SuggestedBindingRedirects.cache
+D:\clone code github\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.exe
+D:\clone code github\hotel_manager_app\hotel-management-app\obj\Debug\hotel-management-app.pdb
